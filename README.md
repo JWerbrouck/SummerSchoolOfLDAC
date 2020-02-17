@@ -1,6 +1,6 @@
 # Summer School of LDAC  
 ![Summer School Banner](figures/LogoLDACSummerschool.png)  
-This repository contains the documentation and source of the coding challenge of the [Summer School of Linked Data in Architecture and Construction](http://linkedbuildingdata.net/ldac2019/summerschool/) held 17 - 18 June in Lisbon, Portugal. The summer school precedes the [7th Workshop on Linked Data in Architecture and Construction (LDAC)](http://linkedbuildingdata.net/ldac2019/).
+This repository contains the documentation and source of the coding challenge of the [Summer School of Linked Data in Architecture and Construction](http://linkedbuildingdata.net/ldac2019/#ss) held 17 - 18 June in Lisbon, Portugal. The summer school precedes the [7th Workshop on Linked Data in Architecture and Construction (LDAC)](http://linkedbuildingdata.net/ldac2019/).
 
 
 ## Getting Started
